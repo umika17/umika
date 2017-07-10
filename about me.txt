@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h1>About me</h1>
+
+
+<p>Bio: Hi I'm Hodan.I'm going to be a sophomore this year.I'm looking forward to Girls Who Code porgram, even thou, I'm not that expert on computers I hope that I learn something that will benefit me.
+
+Fun fact: 
+
+Like: Traveling, learning languages, movies,pineapple pizz, 
+
+Dislike: Doing dishes, </p>
+
+</body>
+</html>
